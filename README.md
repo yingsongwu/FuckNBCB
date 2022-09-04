@@ -1,0 +1,2 @@
+# FuckNBCB
+# LeetCode刷题
